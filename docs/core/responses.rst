@@ -42,7 +42,7 @@ responses the assistant uses to send messages to the user.
 
 .. note::
 
-    Responses that are used in a story should be listed in the ``stories``
+    Responses that are used in a story should be listed in the ``actions``
     section of the domain.yml file. In this example, the ``utter_channel``
     response is not used in a story so it is not listed in that section.
 
